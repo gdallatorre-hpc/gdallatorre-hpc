@@ -1,11 +1,12 @@
 # Hi there, I’m **Gabi** 👋  
 
-🧠 **I'm a High Performance Computing (HPC) engineer**, currently specializing in software performance optimization and Quantum computing & programming. With a PhD in theoretical chemistry, I have over 10 years of experience in research across industry and academia performing molecular simulations and scaling software on curring edge HPC infrastructures. 
+🧠 **I'm a High Performance Computing (HPC) engineer**, currently specializing in software performance optimization and Quantum computing & programming. With a PhD in theoretical chemistry, I have over ten years of experience in research across industry and academia performing molecular simulations and scaling software on cutting edge HPC infrastructures. 
 
 ## 🔍 My research at a glance
 
-- 📚 **10+ peer-reviewed publications** in theoretical chemistry, biophysics, and computational modelling  
-- 🌍 **15+ international conferences** across Europe and North America  
+- 📚 10+ peer-reviewed publications, 15+ oral/poster contributions to international conferences, 10+ international training schools attended, 5+ participations to outreach activities.
+- 🌍 Wrk & life experience in 5 countries: Italy, Spain, Portugal, Germany and United Kingdom.  
+- Academic education in 4 countries: Italy, Spain, Portugal and United Kingdom.  
 - 🧪 **10+ advanced training schools** in quantum chemistry, scientific computing, and molecular simulations  
 
 ---

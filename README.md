@@ -1,15 +1,8 @@
-## Hi there 👋
-
-# 👋 Hi there, I’m **Gabi** 👋  
-### *(a.k.a. Gabriele Dalla Torre)*
+# Hi there, I’m **Gabi** 👋  
 
 ---
 
-🧠 **High Performance Computing (HPC) engineer** passionate about science, tech and solving complex problems — from performance optimization to the frontiers of **Quantum computing**.  
-I blend precision with curiosity (and a touch of **80s cyberpunk-inspired nostalgia**) to build efficient, scalable solutions for **R&D**.  
-
-With broad international experience across research and industry, I bring a **multi-disciplinary viewpoint** to full-stack **scientific computing**, **systems design**, and **software engineering**.  
-I'm always looking to **push boundaries** and **collaborate on bold, impactful projects**.
+🧠 **I'm a High Performance Computing (HPC) engineer**, currently specializing in software performance optimization and Quantum computing & programming. With a PhD in theoretical chemistry, I have over 10 years of experience in research across industry and academia performing molecular simulations and scaling software on curring edge HPC infrastructures. 
 
 ---
 

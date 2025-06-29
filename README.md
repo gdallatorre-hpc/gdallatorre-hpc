@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi there, I’m **Gabi**👋  
+# 👋 Hi there, I’m **Gabi** 👋  
 ### *(a.k.a. Gabriele Dalla Torre)*
 
 ---

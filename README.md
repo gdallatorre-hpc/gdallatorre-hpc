@@ -1,18 +1,25 @@
 # Hi there, I’m **Gabi** 👋  
 
-🧠 **I'm a High Performance Computing (HPC) engineer**, currently specializing in software performance optimization and Quantum computing & programming. With a PhD in theoretical chemistry, I have over ten years of experience in research across industry and academia performing molecular simulations and scaling software on cutting edge HPC infrastructures. 
+🧠 **I'm a High Performance Computing (HPC) engineer**, currently specializing in software performance optimization and Quantum computing. With a PhD in theoretical chemistry, I have over ten years of experience as a researcher across industry and academia performing advanced molecular simulations and scaling software on cutting edge HPC infrastructures. 
 
-## 🔍 My research at a glance
+## 🔍 My background at a glance
 
 - 📚 10+ peer-reviewed publications, 15+ oral/poster contributions to international conferences, 10+ international training schools attended, 5+ participations to outreach activities.
-- 🌍 Wrk & life experience in 5 countries: Italy, Spain, Portugal, Germany and United Kingdom.  
-- Academic education in 4 countries: Italy, Spain, Portugal and United Kingdom.  
-- 🧪 **10+ advanced training schools** in quantum chemistry, scientific computing, and molecular simulations  
+- 🌍 Work & life experience across 5 countries - Italy, Spain, Portugal, Germany and United Kingdom, academic education across 4 countries - Italy, Spain, Portugal and United Kingdom.  
+- 🧪 Skills in Quantum chemistry, biophysics, computational drug discovery and HPC HPC software engineering.  
+  
+👉 [Check out my scientific contributions](https://github.com/gdallatorre-hpc/research-portfolio/blob/main/test.md)  
+
+## 🎉🎉🎉 Three fun facts about me:  
+
+- 🏎️ I once finished Out Run (Arcade) on the original cabinet — no continues, just pure adrenaline.  
+- ☕ I’m more addicted to coffee than my cluster is to RAM - someone said CCSD(T)?  
+- 🗡️ I read the entire Wheel of Time series (14 books, ~12,000 pages) in 10 months  
 
 ---
 
 📫 Let’s connect:  
-📧 gabriele.dallatorre@unimore.it  
+📧 gdallatorre001@dundee.ac.uk  
 
 ---
 

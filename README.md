@@ -10,7 +10,8 @@
 - 🛠️ Advanced skills in Quantum chemistry, biophysics, computational drug discovery and HPC infrastructure engineering, emerging skills in software performance optimization and Quantum computing applications scaling.  
 <br>  
 👉 [Check out my scientific contributions](https://github.com/gdallatorre-hpc/research-portfolio/blob/main/test.md) 👈   
-<br>
+
+
 ## 🎉🎉🎉 Three fun facts about me 🎉🎉🎉  
 
 - 🏎️ I once finished Out Run (Arcade) on the original cabinet — no continues, just pure adrenaline.  

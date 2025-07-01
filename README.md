@@ -8,9 +8,9 @@
 - 🌍 Work & life experience across 5 countries - Italy, Spain, Portugal, Germany and United Kingdom, academic education across 4 countries - Italy, Spain, Portugal and United Kingdom.  
 - 🧪 Skills in Quantum chemistry, biophysics, computational drug discovery and HPC HPC software engineering.  
   
-👉 [Check out my scientific contributions](https://github.com/gdallatorre-hpc/research-portfolio/blob/main/test.md)  
+👉 [Check out my scientific contributions](https://github.com/gdallatorre-hpc/research-portfolio/blob/main/test.md) 👈   
 
-## 🎉🎉🎉 Three fun facts about me:  
+## 🎉🎉🎉 Three fun facts about me 🎉🎉🎉  
 
 - 🏎️ I once finished Out Run (Arcade) on the original cabinet — no continues, just pure adrenaline.  
 - ☕ I’m more addicted to coffee than my cluster is to RAM - someone said CCSD(T)?  

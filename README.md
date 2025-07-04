@@ -11,11 +11,8 @@
    
 👉 [Check out my scientific contributions](https://github.com/gdallatorre-hpc/research-portfolio/blob/main/test.md) 👈
   
-## 🎉✨🎉 Three fun facts about me 🎉✨🎉  
-
-- 🏎️ I once finished Out Run (Arcade) on the original cabinet — no continues, just pure adrenaline  
-- ☕ I’m more addicted to coffee than my cluster is to RAM — someone said CCSD(T)?  
-- 🗡️ I read the entire Wheel of Time series (14 books, ~12,000 pages) in 10 months  
+👉 [![Check out](https://img.shields.io/badge/Check%20out-blue)](https://github.com/gdallatorre-hpc/research-portfolio/blob/main/test.md) 👈 my scientific contributions
+  
 ## 🎉✨🎉 Three fun facts about me 🎉✨🎉  
 
 - 🏎️ I once finished [**Out Run**](https://en.wikipedia.org/wiki/Out_Run) (Arcade) on the original cabinet — no continues, just pure adrenaline  

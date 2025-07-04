@@ -4,8 +4,8 @@
 
 ## 💼 My career at a glance:
 
-- 🚀 10+ peer-reviewed publications, 15+ oral/poster contributions to international conferences, 10+ international training schools attended, 5+ participations to outreach activities.  
-- 🌍 Work & life experience across 5 countries: Italy, Spain, Portugal, Germany and United Kingdom. 
+- 🚀 10+ peer-reviewed publications, 15+ oral/poster contributions to international conferences, 10+ international training schools attended, 5+ participations to outreach activities.   
+- 🌍 Work & life experience across 5 countries: Italy, Spain, Portugal, Germany and United Kingdom.  
 - 🎓 Academic degrees in 4 disciplines from 4 different countries: Italy (Molecular Cell Biology), Spain (Theoretical Chemistry), Portugal (Theoretical Chemistry) and United Kingdom (HPC engineering).  
 - 🛠️ Advanced skills in Quantum chemistry, biophysics, computational drug discovery and HPC infrastructure administration, emerging skills in software engineering and Quantum hardware & applications  scaling.  
   
@@ -21,7 +21,8 @@
 ---
 
 📫 Let’s connect:  
-✉️  [![Email](https://img.shields.io/badge/Email-red)](mailto:gdallatorre001@dundee.ac.uk) - 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-red)](https://www.linkedin.com/in/gabriele-dalla-torre-hpc/)
+- ✉️  [![Email](https://img.shields.io/badge/Email-red)](mailto:gdallatorre001@dundee.ac.uk)  
+- 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-red)](https://www.linkedin.com/in/gabriele-dalla-torre-hpc/)  
  
 
 ---

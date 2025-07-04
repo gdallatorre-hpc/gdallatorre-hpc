@@ -1,13 +1,13 @@
 # Hi there, I’m **Gabi** 👋  
 
-**I'm a High Performance Computing (HPC) engineer**, currently specializing in software performance optimization and Quantum computing. With a PhD in theoretical chemistry, I have over ten years of experience as a researcher across industry and academia performing advanced molecular simulations and scaling software on cutting edge HPC infrastructures. 
+**I'm a High Performance Computing (HPC) engineer**, currently specializing in software performance optimization and Quantum computing. With a PhD in theoretical chemistry, I have over ten years of international experience as a researcher across industry and academia performing advanced molecular simulations and scaling software on cutting edge HPC infrastructures. 
 
 ## 💼 My career at a glance:
 
-- 🚀 10+ peer-reviewed publications, 15+ oral/poster contributions to international conferences, 10+ international training schools attended, 5+ outreach activities engagements.  
+- 🚀 10+ peer-reviewed publications, 15+ oral/poster contributions to international conferences, 10+ international training schools attended, 5+ participations to outreach activities.  
 - 🌍 Work & life experience across 5 countries: Italy, Spain, Portugal, Germany and United Kingdom. 
 - 🎓 Academic degrees in 4 disciplines from 4 different countries: Italy (Molecular Cell Biology), Spain (Theoretical Chemistry), Portugal (Theoretical Chemistry) and United Kingdom (HPC engineering).  
-- 🛠️ Advanced skills in Quantum chemistry, biophysics, computational drug discovery and HPC infrastructure engineering, emerging skills in software performance optimization and Quantum computing applications scaling.  
+- 🛠️ Advanced skills in Quantum chemistry, biophysics, computational drug discovery and HPC infrastructure administration, emerging skills in software engineering and Quantum hardware & applications  scaling.  
    
 👉 [Check out my scientific contributions](https://github.com/gdallatorre-hpc/research-portfolio/blob/main/test.md) 👈
   
@@ -16,6 +16,11 @@
 - 🏎️ I once finished Out Run (Arcade) on the original cabinet — no continues, just pure adrenaline.  
 - ☕ I’m more addicted to coffee than my cluster is to RAM - someone said CCSD(T)?  
 - 🗡️ I read the entire Wheel of Time series (14 books, ~12,000 pages) in 10 months  
+
+🎉 **Beyond the Code**
+* 🏎️ **Gaming Achievement:** Conquered Out Run (Arcade) on original cabinet — no continues, pure skill
+* ☕ **Coffee Dependency:** More addicted to caffeine than my clusters are to RAM *(someone mentioned CCSD(T)?)*
+* 📚 **Reading Marathon:** Devoured all 14 Wheel of Time books (12,000+ pages) in 10 months
 
 ---
 

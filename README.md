@@ -4,7 +4,7 @@
 
 ## 💼 My career at a glance:
 
-- 🚀 10+ peer-reviewed publications, 15+ oral/poster contributions to international conferences, 10+ international training schools attended, 5+ participations to outreach activities.  
+- 🚀 10+ peer-reviewed publications, 15+ oral/poster contributions to international conferences, 13+ international training schools attended, 5+ participations to outreach activities.  
  
 - 🌍 Work & life experience across 5 countries: Italy, Spain, Portugal, Germany and United Kingdom.  
 
@@ -13,8 +13,8 @@
 - 🛠️ Advanced skills in Quantum chemistry, biophysics, computational drug discovery and HPC infrastructure administration, emerging skills in software engineering and Quantum hardware & applications  scaling.  
   
   
-👉 [![Check out](https://img.shields.io/badge/Check%20out-blue)](https://github.com/gdallatorre-hpc/research-portfolio/blob/main/test.md) 👈 my scientific contributions  
-👉 [![Check out](https://img.shields.io/badge/Check%20out-blue)](https://github.com/gdallatorre-hpc/research-portfolio/tree/main/artworks) 👈 my artworks
+  👉 [![Check out](https://img.shields.io/badge/Check%20out-blue)](https://github.com/gdallatorre-hpc/research-portfolio/blob/main/test.md) 👈  my scientific contributions  
+👉 [![Check out](https://img.shields.io/badge/Check%20out-blue)](https://github.com/gdallatorre-hpc/research-portfolio/tree/main/artworks) 👈  my artworks
   
 ## 🎉✨🎉 Three fun facts about me 🎉✨🎉  
 

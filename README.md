@@ -21,7 +21,8 @@
 ---
 
 📫 Let’s connect:  
-📧 gdallatorre001@dundee.ac.uk  
+✉️  [![Email](https://img.shields.io/badge/Email-red)](mailto:gdallatorre001@dundee.ac.uk) - 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-red)](https://www.linkedin.com/in/gabriele-dalla-torre-hpc/)
+ 
 
 ---
 

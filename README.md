@@ -16,7 +16,11 @@
 - 🏎️ I once finished Out Run (Arcade) on the original cabinet — no continues, just pure adrenaline  
 - ☕ I’m more addicted to coffee than my cluster is to RAM — someone said CCSD(T)?  
 - 🗡️ I read the entire Wheel of Time series (14 books, ~12,000 pages) in 10 months  
+## 🎉✨🎉 Three fun facts about me 🎉✨🎉  
 
+- 🏎️ I once finished [**Out Run**](https://en.wikipedia.org/wiki/Out_Run) (Arcade) on the original cabinet — no continues, just pure adrenaline  
+- ☕ I’m more addicted to coffee than my cluster is to RAM — someone said [**CCSD(T)**](https://pubs.acs.org/doi/10.1021/acs.jctc.4c01777)?  
+- 🗡️ I read the entire [**Wheel of Time**](https://dragonmount.com/Books/index/) original series (14 books, ~12,000 pages) in iless than 10 months.  
 ---
 
 📫 Let’s connect:  

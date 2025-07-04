@@ -11,10 +11,10 @@
 - 🎓 Academic degrees in 4 disciplines from 4 different countries: Italy (Molecular Cell Biology), Spain (Theoretical Chemistry), Portugal (Theoretical Chemistry) and United Kingdom (HPC engineering).  
 
 - 🛠️ Advanced skills in Quantum chemistry, biophysics, computational drug discovery and HPC infrastructure administration, emerging skills in software engineering and Quantum hardware & applications  scaling.  
-  
-  
-  👉 [![Check out](https://img.shields.io/badge/Check%20out-blue)](https://github.com/gdallatorre-hpc/research-portfolio/blob/main/test.md) 👈  my scientific contributions  
-  👉 [![Check out](https://img.shields.io/badge/Check%20out-blue)](https://github.com/gdallatorre-hpc/research-portfolio/tree/main/artworks) 👈  my artworks
+
+
+👉 [![Check out](https://img.shields.io/badge/Check%20out-blue)](https://github.com/gdallatorre-hpc/research-portfolio/blob/main/test.md) 👈  my scientific contributions  
+👉 [![Check out](https://img.shields.io/badge/Check%20out-blue)](https://github.com/gdallatorre-hpc/research-portfolio/tree/main/artworks) 👈  my artworks
   
 ## 🎉✨🎉 Three fun facts about me 🎉✨🎉  
 

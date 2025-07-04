@@ -11,16 +11,11 @@
    
 👉 [Check out my scientific contributions](https://github.com/gdallatorre-hpc/research-portfolio/blob/main/test.md) 👈
   
-## 🎉🎉🎉 Three fun facts about me 🎉🎉🎉  
+## 🎉✨🎉 Three fun facts about me 🎉✨🎉  
 
-- 🏎️ I once finished Out Run (Arcade) on the original cabinet — no continues, just pure adrenaline.  
-- ☕ I’m more addicted to coffee than my cluster is to RAM - someone said CCSD(T)?  
+- 🏎️ I once finished Out Run (Arcade) on the original cabinet — no continues, just pure adrenaline  
+- ☕ I’m more addicted to coffee than my cluster is to RAM — someone said CCSD(T)?  
 - 🗡️ I read the entire Wheel of Time series (14 books, ~12,000 pages) in 10 months  
-
-🎉 **Beyond the Code**
-* 🏎️ **Gaming Achievement:** Conquered Out Run (Arcade) on original cabinet — no continues, pure skill
-* ☕ **Coffee Dependency:** More addicted to caffeine than my clusters are to RAM *(someone mentioned CCSD(T)?)*
-* 📚 **Reading Marathon:** Devoured all 14 Wheel of Time books (12,000+ pages) in 10 months
 
 ---
 

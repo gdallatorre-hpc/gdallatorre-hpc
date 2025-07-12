@@ -2,7 +2,7 @@
 
 **I'm a High Performance Computing (HPC) engineer**, currently specializing in software performance optimization and Quantum computing. With a PhD in theoretical chemistry, I have over ten years of international experience as a researcher across industry and academia performing advanced molecular simulations and scaling software on cutting edge HPC infrastructures. 
 
-## 💼 My career at a glance:
+## 💼 My career at a glance
 
 - 🚀 10+ peer-reviewed publications, 16+ oral/poster contributions to international conferences, 13+ international training schools attended, 7+ participations to outreach activities.  
  
@@ -19,7 +19,7 @@
 
 - 🏎️ I once finished [**Out Run**](https://en.wikipedia.org/wiki/Out_Run) (Arcade) on the original cabinet — no continues, just pure adrenaline  
 - ☕ I’m more addicted to coffee than my cluster is to RAM — someone said [**CCSD(T)**](https://pubs.acs.org/doi/10.1021/acs.jctc.4c01777)?  
-- 🗡️ I read the entire [**Wheel of Time**](https://dragonmount.com/Books/index/) original series (14 books, ~12,000 pages) in iless than 10 months.  
+- 🗡️ I read the entire [**Wheel of Time**](https://dragonmount.com/Books/index/) original series (14 books, ~12,000 pages) in iless than 10 months   
 ---
 
 📫 Let’s connect:  

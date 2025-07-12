@@ -23,7 +23,7 @@
 ---
 
 📫 Let’s connect:  
-- ✉️  [![Email](https://img.shields.io/badge/Email-red)](mailto:gdallatorre001@dundee.ac.uk) - 🏢 [![Company](https://img.shields.io/badge/LinkedIn-red)](https://www.linkedin.com/in/gabriele-dalla-torre-hpc/) - 🔗 [![Company](https://img.shields.io/badge/LinkedIn-red)](https://drugdiscovery.dundee.ac.uk/contact/)   
+- ✉️  [![Email](https://img.shields.io/badge/Email-red)](mailto:gdallatorre001@dundee.ac.uk) - 🔗 [![Linkedln](https://img.shields.io/badge/LinkedIn-red)](https://www.linkedin.com/in/gabriele-dalla-torre-hpc/) - 🏢 [![Company](https://img.shields.io/badge/Company-red)](https://drugdiscovery.dundee.ac.uk/contact/)   
  
 
 ---

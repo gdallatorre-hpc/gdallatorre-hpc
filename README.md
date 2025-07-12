@@ -12,7 +12,7 @@
 
 - 🛠️ Advanced skills in Quantum chemistry, biophysics, computational drug discovery and HPC infrastructure administration, emerging skills in software engineering and Quantum hardware & applications  scaling.  
 
-👉 [![Check out](https://img.shields.io/badge/Check%20out-blue)](https://github.com/gdallatorre-hpc/research-portfolio/blob/main/test.md) 👈  my scientific contributions  
+👉 [![Check out](https://img.shields.io/badge/Check%20out-blue)](https://github.com/gdallatorre-hpc/research-portfolio/blob/main/scientific_contributions.md) 👈  my scientific contributions  
 👉 [![Check out](https://img.shields.io/badge/Check%20out-blue)](https://github.com/gdallatorre-hpc/research-portfolio/tree/main/artworks) 👈  my artworks
   
 ## 🎉✨🎉 Three fun facts about me 🎉✨🎉  
@@ -23,8 +23,7 @@
 ---
 
 📫 Let’s connect:  
-- ✉️  [![Email](https://img.shields.io/badge/Email-red)](mailto:gdallatorre001@dundee.ac.uk)  
-- 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-red)](https://www.linkedin.com/in/gabriele-dalla-torre-hpc/)  
+- ✉️  [![Email](https://img.shields.io/badge/Email-red)](mailto:gdallatorre001@dundee.ac.uk) - 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-red)](https://www.linkedin.com/in/gabriele-dalla-torre-hpc/) - 🔗 [![Company](https://img.shields.io/badge/LinkedIn-red)](https://drugdiscovery.dundee.ac.uk/contact/)   
  
 
 ---

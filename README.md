@@ -4,7 +4,7 @@
 
 ## 💼 My career at a glance:
 
-- 🚀 10+ peer-reviewed publications, 15+ oral/poster contributions to international conferences, 13+ international training schools attended, 7+ participations to outreach activities.  
+- 🚀 10+ peer-reviewed publications, 16+ oral/poster contributions to international conferences, 13+ international training schools attended, 7+ participations to outreach activities.  
  
 - 🌍 Work & life experience across 5 countries: Italy, Spain, Portugal, Germany and United Kingdom.  
 

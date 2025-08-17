@@ -22,7 +22,7 @@
 - 🗡️ I read the entire [**Wheel of Time**](https://dragonmount.com/Books/index/) original series (14 books, ~12,000 pages) in iless than 10 months   
 ---
 
-📫 Let’s connect:  
+# 📫 Let’s connect:  
 - ✉️  [![Email](https://img.shields.io/badge/Email-red)](mailto:gdallatorre001@dundee.ac.uk) - 🔗 [![Linkedln](https://img.shields.io/badge/LinkedIn-red)](https://www.linkedin.com/in/gabriele-dalla-torre-hpc/) - 🏢 [![Company](https://img.shields.io/badge/Company-red)](https://drugdiscovery.dundee.ac.uk/contact/)   
  
 
